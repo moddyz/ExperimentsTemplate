@@ -1,4 +1,4 @@
-# Experiments Template
+# Web Experiments Template
 
 Template project for statically generated documents, for web experiments in a particular domain.
 
