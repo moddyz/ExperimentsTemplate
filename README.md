@@ -25,4 +25,4 @@ Each _experiment_ consists of the per-experiment documents which contribute to t
 - `script.js`: javascript which is referenced in `index.html`. 
 - `style.css`: stylesheet which is referenced in `index.html`.
 
-`generateContent.py` should be run to re-generate the output `index.html, if `context.json` or `content.html` are modified.
+`generateContent.py` should be run to re-generate the output `index.html`, if `context.json` or `content.html` are modified.
