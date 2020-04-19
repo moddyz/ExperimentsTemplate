@@ -2,7 +2,7 @@
 
 Template project for statically generated documents, for web experiments in a particular domain.
 
-[Hosted by Github Pages](https://moddyz.github.io/ExperimentsTemplate/).
+[Hosted by GitHub Pages](https://moddyz.github.io/WebExperimentsTemplate/).
 
 ## Usage
 
